@@ -1,0 +1,56 @@
+
+
+h1{
+    text-align: center;
+    font-style: italic;
+    COLOR: red;
+    font-size: 40px;
+  }
+  #brigadeiro{
+    width: 350px;
+    margin: auto;
+    display: block;
+  }
+  #leite_condensado{
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+  }
+  #chocolate{
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+  }
+  #manteiga{
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  #granulado{
+    
+   font-size: 20px;
+    text-align: center;
+    font-style: italic;
+  }
+  #primeiro_passo{
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+  }
+  #segundo_passo{
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+  }
+  #dica{
+    font-size: 16px;
+    text-align: center;
+    font-style: italic;
+    color: red
+  }
+  #terceiro_passo{
+    font-size: 18px;
+    text-align: center;
+    font-style: italic;
+  }
